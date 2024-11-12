@@ -1,5 +1,6 @@
 # Local-first Decentralized Web
 
+1. Презентация: https://slidr.app/p/hefYBUi1dzE6rlGUPXbq
 1. Павел Востриков
     - Контакты:
         - https://t.me/vos3k
