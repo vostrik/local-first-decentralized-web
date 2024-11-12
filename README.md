@@ -1,31 +1,35 @@
 # Local-first Decentralized Web
 
 1. Павел Востриков
-    1. https://t.me/vos3k
-    2. https://github.com/vostrik
-    3. mail@vostrik.com
-    4. Мой кулинарный канал Джуниор су-шеф
-        1. https://t.me/junior_sous_chef
-        2. https://www.youtube.com/@junior-sous-chef-channel
-2. MoscowJS
-    1. https://t.me/moscowjs
-    2. https://moscowjs.org/
-3. Local-first conf, 30.05.2024
+    - Контакты:
+        - https://t.me/vos3k
+        - https://github.com/vostrik
+        - mail@vostrik.com
+    - Мой кулинарный канал Джуниор су-шеф
+        - https://t.me/junior_sous_chef
+        - https://www.youtube.com/@junior-sous-chef-channel
+1. MoscowJS
+    - https://t.me/moscowjs
+    - https://moscowjs.org/
+1. BeerJS Moscow
+   - https://t.me/beerjs_moscow
+   - https://t.me/beerjs_moscow_drinkup
+1. Local-first conf, 30.05.2024
 
     [Your web app but good: Aaron Boodman](https://www.youtube.com/watch?v=rqOUgqsWvbw&t=1041s)
-4. [Невыполненные обещания веб-компонентов](https://dmitriid.com/the-broken-promise-of-web-components)
-    1. [Свежая подборка материалов по веб-компонентам](https://t.me/artalog/1425)
-5. IPFS gateway
-    1. https://ipfs.io
-    2. https://developers.cloudflare.com/web3/ipfs-gateway/
-    3. https://web3.storage/
-6. Любимые доклады с Холи
-    1. [Виктор Грищенко — Децентрализованный веб](https://www.youtube.com/watch?v=lROd9NUBP5Q), HolyJS 2018 Moscow
-    2. [Николай Матвиенко – Поиск и устранение неисправностей Node.js-приложений под капотом], HolyJS 2017 Moscow
-    3. [https://www.youtube.com/watch?v=ZCQuIV4sftI], HolyJS 2018 Piter
-    4. [https://www.youtube.com/watch?v=1U9oGd3VD9w], HolyJS 2019 Moscow
-    5. [https://www.youtube.com/watch?v=impcGrPD0xQ], HolyJS Moscow 2019
-    6. [https://www.youtube.com/watch?v=SbgqR79nPd0], HolyJS 2019 Piter
-    7. [https://www.youtube.com/watch?v=mtVBAcy7AKA], HolyJS 2019 Moscow
-    8. [https://www.youtube.com/watch?v=T66wMYbtfNA], HolyJS 2019 Moscow
-    9. [https://www.youtube.com/watch?v=xPPCzryZK44], Yandex FrontTalks 2014
+1. [Невыполненные обещания веб-компонентов](https://dmitriid.com/the-broken-promise-of-web-components)
+   - [Свежая подборка материалов по веб-компонентам](https://t.me/artalog/1425)
+1. IPFS gateway
+   - https://ipfs.io
+   - https://developers.cloudflare.com/web3/ipfs-gateway/
+   - https://web3.storage/
+1. Любимые доклады с Холи
+    - [Виктор Грищенко — Децентрализованный веб](https://www.youtube.com/watch?v=lROd9NUBP5Q), HolyJS 2018 Moscow
+    - [Николай Матвиенко – Поиск и устранение неисправностей Node.js-приложений под капотом](https://www.youtube.com/watch?v=_qzFJ2MPVWQ), HolyJS 2017 Moscow
+    - [Илья Климов — 30: слишком много JavaScript](https://www.youtube.com/watch?v=ZCQuIV4sftI), HolyJS 2018 Piter
+    - [Андрей Оконечников — Resilient Component Libraries with React](https://www.youtube.com/watch?v=1U9oGd3VD9w), HolyJS 2019 Moscow
+    - [Guillermo Rauch — Client rendering, server rendering, pre rendering](https://www.youtube.com/watch?v=impcGrPD0xQ), HolyJS Moscow 2019
+    - [Андрей Ситник — Продвижение опенсорс-проектов](https://www.youtube.com/watch?v=SbgqR79nPd0), HolyJS 2019 Piter
+    - [Michael Saboff — JavaScriptCore, many compilers make this engine perform](https://www.youtube.com/watch?v=mtVBAcy7AKA), HolyJS 2019 Moscow
+    - [Виталий Брагилевский — JavaScript на службе у теоретической информатики](https://www.youtube.com/watch?v=T66wMYbtfNA), HolyJS 2019 Moscow
+    - [36 Вадим Макишвили](https://www.youtube.com/watch?v=xPPCzryZK44), Yandex FrontTalks 2014
